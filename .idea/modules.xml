@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RedisManager.iml" filepath="$PROJECT_DIR$/RedisManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisManager-Base/RedisManager-Base.iml" filepath="$PROJECT_DIR$/RedisManager-Base/RedisManager-Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisManager-Service/RedisManager-Service.iml" filepath="$PROJECT_DIR$/RedisManager-Service/RedisManager-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisManager-Web/RedisManager-Web.iml" filepath="$PROJECT_DIR$/RedisManager-Web/RedisManager-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RedisManager-Monitor/RedisManager-monitor.iml" filepath="$PROJECT_DIR$/RedisManager-Monitor/RedisManager-monitor.iml" />
+    </modules>
+  </component>
+</project>
